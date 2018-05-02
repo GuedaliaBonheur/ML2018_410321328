@@ -2,6 +2,8 @@
 <h3 align="center"> Homework1 : Image Decryption by a Single-Layer Neural Network </h3>
 
 
+    This hw was about encrypting and decrypting images. In this hw we were asked to use a single_Layer Neural network to encrypt or decrypt. However we did not use the key1 and key2 image files for encryption but instead a keyGenerator function that provides the encryption key.
+
 ![screen shot 2018-05-02 at 10 24 33 pm](https://user-images.githubusercontent.com/38835734/39528807-b2dc531a-4e57-11e8-8a66-d23c5b0222f3.png)
 
 
